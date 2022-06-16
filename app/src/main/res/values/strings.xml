@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chess Clock</string>
+    <string name="default_time"><b>5:00</b></string>
+    <string name="default_move">0 moves</string>
+    <string name="set_time">Continue</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="increment">Increment...</string>
+</resources>

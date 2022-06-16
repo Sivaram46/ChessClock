@@ -1,0 +1,18 @@
+
+- Remove the bug in moves
+
+- Pause button doesn't show up after first move
+
+- When timer runs up
+
+* Add custom time option
+
+* Add increment option when a move is made
+
+** Confirm before reset timer
+
+- Change the layout to RL so that timer displays in exact center
+
+- Change color in notification shade
+
+- Avoid landscape mode
